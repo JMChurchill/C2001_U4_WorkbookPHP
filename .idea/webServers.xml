@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="71565005-32e0-454d-aa6c-87eddd2cd299" name="AMPPS" url="http://localhost/C2001_U4_WorkbookPHP">
+        <fileTransfer mountedRoot="C:\Program Files\Ampps\www\C2001_U4_WorkbookPHP" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
