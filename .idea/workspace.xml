@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="28d47896-f258-4ba1-b97f-58da863dd812" name="Default Changelist" comment="" />
+    <list default="true" id="28d47896-f258-4ba1-b97f-58da863dd812" name="Default Changelist" comment="PHP form">
+      <change afterPath="$PROJECT_DIR$/public/contactDetails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/registrationPanel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,12 +54,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603633268400</updated>
-      <workItem from="1603633269457" duration="67000" />
+      <workItem from="1603633269457" duration="1064000" />
     </task>
+    <task id="LOCAL-00001" summary="PHP form">
+      <created>1603633404814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603633404814</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PHP form" />
+    <option name="LAST_COMMIT_MESSAGE" value="PHP form" />
   </component>
   <component name="WindowStateProjectService">
     <state x="75" y="357" key="#Deployment" timestamp="1603633336336">
@@ -48,5 +93,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="263" y="453" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603633327682" />
+    <state x="1274" y="443" key="NewPhpFileDialog" timestamp="1603633932033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1274" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603633932033" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603633442231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603633442231" />
   </component>
 </project>
