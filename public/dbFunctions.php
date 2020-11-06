@@ -1,5 +1,4 @@
 <?php
-//CONST servername = "https://proj-mysql.uopnet.plymouth.ac.uk";
 const servername = "proj-mysql.uopnet.plymouth.ac.uk";
 CONST username = "COMP2001_JChurchill";
 CONST password = "VmrR185+";
