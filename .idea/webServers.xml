@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="71565005-32e0-454d-aa6c-87eddd2cd299" name="AMPPS" url="http://localhost/C2001_U4_WorkbookPHP">
-        <fileTransfer mountedRoot="C:\Program Files\Ampps\www\C2001_U4_WorkbookPHP" accessType="MOUNT" port="0" />
+      <webServer id="71565005-32e0-454d-aa6c-87eddd2cd299" name="AMPPS" url="http://localhost/Connecting_PHP_To_MySQL_Database">
+        <fileTransfer mountedRoot="C:\Program Files\Ampps\www\Connecting_PHP_To_MySQL_Database" accessType="MOUNT" port="0" />
       </webServer>
     </option>
   </component>

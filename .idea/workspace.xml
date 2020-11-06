@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d47896-f258-4ba1-b97f-58da863dd812" name="Default Changelist" comment="PHP form">
-      <change afterPath="$PROJECT_DIR$/public/contactDetails.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/registrationPanel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/dbFunctions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/agreement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contactDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/registrationPanel.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../connectingToDatabasePHP" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603633268400</updated>
       <workItem from="1603633269457" duration="1064000" />
+      <workItem from="1604678118093" duration="188000" />
     </task>
     <task id="LOCAL-00001" summary="PHP form">
       <created>1603633404814</created>
@@ -79,24 +82,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PHP form" />
     <option name="LAST_COMMIT_MESSAGE" value="PHP form" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="75" y="357" key="#Deployment" timestamp="1603633336336">
+    <state x="369" y="194" key="#Deployment" timestamp="1604678306825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="75" y="357" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1603633336336" />
-    <state x="263" y="453" key="FileChooserDialogImpl" timestamp="1603633327682">
+    <state x="369" y="194" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1604678306825" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604678165469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="263" y="453" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603633327682" />
-    <state x="1274" y="443" key="NewPhpFileDialog" timestamp="1603633932033">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604678165469" />
+    <state x="263" y="453" key="FileChooserDialogImpl" timestamp="1604678298494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1274" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603633932033" />
+    <state x="263" y="453" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604678298494" />
+    <state x="1274" y="443" key="NewPhpFileDialog" timestamp="1604678221641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1274" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604678221641" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603633442231">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
