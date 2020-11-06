@@ -1,11 +1,17 @@
 <?php
 
-include 'dbFunctions.php';
+//include 'dbFunctions.php';
+include_once '..\src/model/Repository.php';
 
 if(isset($_POST['table']))
 {
-    $tablename = $_POST['table'];
+    $tableName = $_POST['table'];
 }
+
+//if (isset($_POST['customerName']))
+//{
+//    $tableName = $_POST['customerName'];
+//}
 
 ?>
 
@@ -26,7 +32,11 @@ if(isset($_POST['table']))
     <p>
         <?php
         //get all the table names
-        $results = getAll($tablename);
+        if (isset($tableName)){
+            $db = new Repository();
+            $results = $db->getAll($tableName);
+        }
+
         if ($results)
         {
             //Hopefully if the results have been the right PDO type we should be able
@@ -59,6 +69,18 @@ if(isset($_POST['table']))
         }
         ?>
     </p>
+
 </form>
+<!--<form action="--><?php //echo $_SERVER['PHP_SELF']; ?><!--" method="post">-->
+<!--    <label for="customer_Name">FirstName</label>-->
+<!--    <input type="text" id="customer_Name" name="customerName">-->
+<!--    <input type="submit" value="go"/>-->
+<!---->
+<!--    --><?php
+//    $abc = new Repository();
+//    $abc->showCustomer('John');
+//    ?>
+<!--</form>-->
+
 </body>
 </html>

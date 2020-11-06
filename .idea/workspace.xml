@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d47896-f258-4ba1-b97f-58da863dd812" name="Default Changelist" comment="PHP form">
-      <change afterPath="$PROJECT_DIR$/public/dbFunctions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/agreement.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contactDetails.php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Repository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/customer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/registrationPanel.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +37,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jN8cZg0w9XJRud6xFGm7Ns7fU5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../connectingToDatabasePHP" />
@@ -57,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603633268400</updated>
       <workItem from="1603633269457" duration="1064000" />
-      <workItem from="1604678118093" duration="188000" />
+      <workItem from="1604678118093" duration="7508000" />
     </task>
     <task id="LOCAL-00001" summary="PHP form">
       <created>1603633404814</created>
@@ -66,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603633404814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PHP form">
+      <created>1604678374531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604678374531</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added functionality">
+      <created>1604678576517</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604678576517</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,8 +102,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="PHP form" />
-    <option name="LAST_COMMIT_MESSAGE" value="PHP form" />
+    <MESSAGE value="added functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="added functionality" />
   </component>
   <component name="WindowStateProjectService">
     <state x="369" y="194" key="#Deployment" timestamp="1604678306825">
@@ -105,9 +124,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1274" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604678221641" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603633442231">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604678601485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603633442231" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604678601485" />
   </component>
 </project>
